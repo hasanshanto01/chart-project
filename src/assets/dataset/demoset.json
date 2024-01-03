@@ -1,0 +1,32 @@
+{
+  "Asia": {
+    "Bangladesh": {
+      "population": 1000
+    },
+    "India": {
+      "population": 3000
+    },
+    "Pakistan": {
+      "population": 1400
+    }
+  },
+  "Europe": {
+    "England": {
+      "population": 1200
+    },
+    "Germany": {
+      "population": 800
+    },
+    "Spain": {
+      "population": 7000
+    }
+  },
+  "Africa": {
+    "Algeria": {
+      "population": 1100
+    },
+    "Angola": {
+      "population": 900
+    }
+  }
+}

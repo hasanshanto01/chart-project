@@ -1,0 +1,47 @@
+{
+  "children": [
+    {
+      "name": "Asia",
+      "children": [
+        {
+          "name": "Bangladesh",
+          "value": 10
+        },
+        {
+          "name": "India",
+          "value": 20
+        },
+        {
+          "name": "Pakistan",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "children": [
+        {
+          "name": "England",
+          "value": 15
+        },
+        {
+          "name": "Germany",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "children": [
+        {
+          "name": "United States",
+          "value": 18
+        },
+        {
+          "name": "Canada",
+          "value": 32
+        }
+      ]
+    }
+  ]
+}
